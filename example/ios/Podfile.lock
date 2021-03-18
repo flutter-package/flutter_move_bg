@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - move_bg (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - move_bg (from `.symlinks/plugins/move_bg/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  move_bg:
+    :path: ".symlinks/plugins/move_bg/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  move_bg: 09958cbd15672abc77e686c3954f4708c2b24435
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
